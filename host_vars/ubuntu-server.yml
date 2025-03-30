@@ -1,0 +1,3 @@
+ansible_host: 63.35.222.36
+ansible_password: tchofo
+ansible_become_password: tchofo
